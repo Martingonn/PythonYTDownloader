@@ -18,6 +18,8 @@ If you want to join the newsletter, send me your receiving e-mail adress to *mar
 
 # Future Additions
 * Will add a preview and info (YT channel name, views, lenght)
+* GUI version
+* Make code show available formats and resolutions
 
 # Downloads
 ![GitHub All Releases](https://img.shields.io/github/downloads/Martingonn/PythonYTDownloader/total)
