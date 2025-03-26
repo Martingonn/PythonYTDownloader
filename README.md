@@ -1,7 +1,7 @@
 # What is it?
 PyYTDownloader allows users to easily and safely download YouTube videos from links to their own devices. Has both a GUI and non-GUI version.
 # Original Author 
-Development was started on March 1st, 2025, by Marcin Jacek Chmiel.
+Development was started on March 19th, 2025, by Marcin Jacek Chmiel.
 # Contributors 
 As of now, there are no more contributors than the original author.
 If you have any problems or suggestions, contact me: *martingonn-dev@outlook.com*
