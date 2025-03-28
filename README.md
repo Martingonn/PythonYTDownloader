@@ -5,10 +5,8 @@ Development was started on March 19th, 2025, by Marcin Jacek Chmiel.
 # Contributors 
 As of now, there are no more contributors than the original author.
 If you have any problems or suggestions, contact me: *martingonn-dev@outlook.com*
-# Newsletter
-If you want to join the newsletter, send me your receiving e-mail adress to *martingonn-dev@outlook.com*. Your data will not be sold or distributed in any way.
 # Disclaimer!!!
-**Do not use the model in any illegal way!** Do not republish unmodified videos as your own!
+**Do not use the code in any illegal way!** Do not republish unmodified videos as your own!
 # How to use
 1. Download the files from the release you need.
 2. Ensure you have Python 3.5 and up, or you will have to adapt the libraries manually.
